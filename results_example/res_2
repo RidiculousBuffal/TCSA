@@ -1,0 +1,12 @@
+==========================================
+Time period: 5737.648008 ~ 5737.776668
+------------------------------------------
+Function call stack chain 1
+__GI___clone3+0x2c;start_thread+0x2d1;waiter_thread_main+0x3d;wait_for_lock+0x12;check_and_acquire_lock+0xf
+Processes: contender
+Threads: 9353,9356,9357,9358,9359,9360,9361,9362
+------------------------------------------
+Function call stack chain 2
+__GI___clone3+0x2c;start_thread+0x2d1;waiter_thread_main+0x3d;wait_for_lock+0x12;check_and_acquire_lock+0x12
+Processes: contender
+Threads: 9353,9355,9356,9358,9359,9360,9361

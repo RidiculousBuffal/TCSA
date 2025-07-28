@@ -1,0 +1,840 @@
+==========================================
+Contention group 1 :
+Duration: 0.0020679999997810228
+Function call stacks: 2
+Total threads: 2
+Total processes: 1
+Detailed information:res_1
+==========================================
+Contention group 2 :
+Duration: 0.12866000000030908
+Function call stacks: 2
+Total threads: 9
+Total processes: 1
+Detailed information:res_2
+==========================================
+Contention group 3 :
+Duration: 0.10138899999947171
+Function call stacks: 2
+Total threads: 9
+Total processes: 1
+Detailed information:res_3
+==========================================
+Contention group 4 :
+Duration: 0.10938700000042445
+Function call stacks: 2
+Total threads: 9
+Total processes: 1
+Detailed information:res_4
+==========================================
+Contention group 5 :
+Duration: 0.08698699999968085
+Function call stacks: 2
+Total threads: 9
+Total processes: 1
+Detailed information:res_5
+==========================================
+Contention group 6 :
+Duration: 0.08675200000016048
+Function call stacks: 2
+Total threads: 9
+Total processes: 1
+Detailed information:res_6
+==========================================
+Contention group 7 :
+Duration: 0.08579600000030041
+Function call stacks: 3
+Total threads: 10
+Total processes: 2
+Detailed information:res_7
+==========================================
+Contention group 8 :
+Duration: 0.08730000000014115
+Function call stacks: 2
+Total threads: 7
+Total processes: 1
+Detailed information:res_8
+==========================================
+Contention group 9 :
+Duration: 0.09054099999957543
+Function call stacks: 2
+Total threads: 9
+Total processes: 1
+Detailed information:res_9
+==========================================
+Contention group 10 :
+Duration: 0.06726499999967928
+Function call stacks: 3
+Total threads: 10
+Total processes: 2
+Detailed information:res_10
+==========================================
+Contention group 11 :
+Duration: 0.0747270000001663
+Function call stacks: 2
+Total threads: 9
+Total processes: 1
+Detailed information:res_11
+==========================================
+Contention group 12 :
+Duration: 0.09194899999965855
+Function call stacks: 2
+Total threads: 7
+Total processes: 1
+Detailed information:res_12
+==========================================
+Contention group 13 :
+Duration: 0.06348900000011781
+Function call stacks: 2
+Total threads: 9
+Total processes: 1
+Detailed information:res_13
+==========================================
+Contention group 14 :
+Duration: 0.06829999999990832
+Function call stacks: 2
+Total threads: 7
+Total processes: 1
+Detailed information:res_14
+==========================================
+Contention group 15 :
+Duration: 0.052330000000438304
+Function call stacks: 2
+Total threads: 9
+Total processes: 1
+Detailed information:res_15
+==========================================
+Contention group 16 :
+Duration: 0.06751299999996263
+Function call stacks: 2
+Total threads: 7
+Total processes: 1
+Detailed information:res_16
+==========================================
+Contention group 17 :
+Duration: 0.04910699999982171
+Function call stacks: 2
+Total threads: 9
+Total processes: 1
+Detailed information:res_17
+==========================================
+Contention group 18 :
+Duration: 0.0584339999995791
+Function call stacks: 2
+Total threads: 9
+Total processes: 1
+Detailed information:res_18
+==========================================
+Contention group 19 :
+Duration: 0.046262999999271415
+Function call stacks: 2
+Total threads: 9
+Total processes: 1
+Detailed information:res_19
+==========================================
+Contention group 20 :
+Duration: 0.042919000000438245
+Function call stacks: 2
+Total threads: 9
+Total processes: 1
+Detailed information:res_20
+==========================================
+Contention group 21 :
+Duration: 0.03991799999948853
+Function call stacks: 2
+Total threads: 7
+Total processes: 1
+Detailed information:res_21
+==========================================
+Contention group 22 :
+Duration: 0.03762600000027305
+Function call stacks: 2
+Total threads: 9
+Total processes: 1
+Detailed information:res_22
+==========================================
+Contention group 23 :
+Duration: 0.043126999999913096
+Function call stacks: 2
+Total threads: 7
+Total processes: 1
+Detailed information:res_23
+==========================================
+Contention group 24 :
+Duration: 0.03500900000017282
+Function call stacks: 2
+Total threads: 9
+Total processes: 1
+Detailed information:res_24
+==========================================
+Contention group 25 :
+Duration: 0.03497999999945023
+Function call stacks: 2
+Total threads: 7
+Total processes: 1
+Detailed information:res_25
+==========================================
+Contention group 26 :
+Duration: 0.03725799999938317
+Function call stacks: 2
+Total threads: 9
+Total processes: 1
+Detailed information:res_26
+==========================================
+Contention group 27 :
+Duration: 0.040759999999863794
+Function call stacks: 2
+Total threads: 7
+Total processes: 1
+Detailed information:res_27
+==========================================
+Contention group 28 :
+Duration: 0.028095000000575965
+Function call stacks: 2
+Total threads: 9
+Total processes: 1
+Detailed information:res_28
+==========================================
+Contention group 29 :
+Duration: 0.026650999999219493
+Function call stacks: 2
+Total threads: 7
+Total processes: 1
+Detailed information:res_29
+==========================================
+Contention group 30 :
+Duration: 0.024446000000352797
+Function call stacks: 3
+Total threads: 9
+Total processes: 2
+Detailed information:res_30
+==========================================
+Contention group 31 :
+Duration: 0.03254000000015367
+Function call stacks: 2
+Total threads: 6
+Total processes: 1
+Detailed information:res_31
+==========================================
+Contention group 32 :
+Duration: 0.02665999999953783
+Function call stacks: 2
+Total threads: 7
+Total processes: 1
+Detailed information:res_32
+==========================================
+Contention group 33 :
+Duration: 0.027959999999438878
+Function call stacks: 2
+Total threads: 6
+Total processes: 1
+Detailed information:res_33
+==========================================
+Contention group 34 :
+Duration: 0.03216900000006717
+Function call stacks: 2
+Total threads: 6
+Total processes: 1
+Detailed information:res_34
+==========================================
+Contention group 35 :
+Duration: 0.023490000000492728
+Function call stacks: 2
+Total threads: 7
+Total processes: 1
+Detailed information:res_35
+==========================================
+Contention group 36 :
+Duration: 0.02118400000017573
+Function call stacks: 2
+Total threads: 7
+Total processes: 1
+Detailed information:res_36
+==========================================
+Contention group 37 :
+Duration: 0.020109999999476713
+Function call stacks: 2
+Total threads: 5
+Total processes: 1
+Detailed information:res_37
+==========================================
+Contention group 38 :
+Duration: 0.016894999999749416
+Function call stacks: 2
+Total threads: 7
+Total processes: 1
+Detailed information:res_38
+==========================================
+Contention group 39 :
+Duration: 0.019478999999591906
+Function call stacks: 2
+Total threads: 6
+Total processes: 1
+Detailed information:res_39
+==========================================
+Contention group 40 :
+Duration: 0.020731000000523636
+Function call stacks: 2
+Total threads: 6
+Total processes: 1
+Detailed information:res_40
+==========================================
+Contention group 41 :
+Duration: 0.0202000000008411
+Function call stacks: 2
+Total threads: 7
+Total processes: 1
+Detailed information:res_41
+==========================================
+Contention group 42 :
+Duration: 0.01581400000031863
+Function call stacks: 2
+Total threads: 7
+Total processes: 1
+Detailed information:res_42
+==========================================
+Contention group 43 :
+Duration: 0.024026000000048953
+Function call stacks: 2
+Total threads: 3
+Total processes: 1
+Detailed information:res_43
+==========================================
+Contention group 44 :
+Duration: 0.014728000000104657
+Function call stacks: 2
+Total threads: 7
+Total processes: 1
+Detailed information:res_44
+==========================================
+Contention group 45 :
+Duration: 0.012163000000327884
+Function call stacks: 2
+Total threads: 5
+Total processes: 1
+Detailed information:res_45
+==========================================
+Contention group 46 :
+Duration: 0.01594799999929819
+Function call stacks: 2
+Total threads: 6
+Total processes: 1
+Detailed information:res_46
+==========================================
+Contention group 47 :
+Duration: 0.01583100000061677
+Function call stacks: 2
+Total threads: 5
+Total processes: 1
+Detailed information:res_47
+==========================================
+Contention group 48 :
+Duration: 0.01733799999965413
+Function call stacks: 2
+Total threads: 5
+Total processes: 1
+Detailed information:res_48
+==========================================
+Contention group 49 :
+Duration: 0.01683000000048196
+Function call stacks: 2
+Total threads: 5
+Total processes: 1
+Detailed information:res_49
+==========================================
+Contention group 50 :
+Duration: 0.015663000000131433
+Function call stacks: 1
+Total threads: 5
+Total processes: 1
+Detailed information:res_50
+==========================================
+Contention group 51 :
+Duration: 0.02709899999990739
+Function call stacks: 2
+Total threads: 3
+Total processes: 1
+Detailed information:res_51
+==========================================
+Contention group 52 :
+Duration: 0.01867800000036368
+Function call stacks: 2
+Total threads: 3
+Total processes: 1
+Detailed information:res_52
+==========================================
+Contention group 53 :
+Duration: 0.00884900000073685
+Function call stacks: 2
+Total threads: 6
+Total processes: 1
+Detailed information:res_53
+==========================================
+Contention group 54 :
+Duration: 0.013436000000183412
+Function call stacks: 2
+Total threads: 5
+Total processes: 1
+Detailed information:res_54
+==========================================
+Contention group 55 :
+Duration: 0.008235000000240689
+Function call stacks: 2
+Total threads: 5
+Total processes: 2
+Detailed information:res_55
+==========================================
+Contention group 56 :
+Duration: 0.007712000000537955
+Function call stacks: 3
+Total threads: 5
+Total processes: 2
+Detailed information:res_56
+==========================================
+Contention group 57 :
+Duration: 0.011575000000448199
+Function call stacks: 2
+Total threads: 3
+Total processes: 1
+Detailed information:res_57
+==========================================
+Contention group 58 :
+Duration: 0.00913700000000972
+Function call stacks: 2
+Total threads: 4
+Total processes: 2
+Detailed information:res_58
+==========================================
+Contention group 59 :
+Duration: 0.00685200000043551
+Function call stacks: 2
+Total threads: 4
+Total processes: 1
+Detailed information:res_59
+==========================================
+Contention group 60 :
+Duration: 0.00730199999998149
+Function call stacks: 2
+Total threads: 4
+Total processes: 1
+Detailed information:res_60
+==========================================
+Contention group 61 :
+Duration: 0.009063000000423926
+Function call stacks: 2
+Total threads: 4
+Total processes: 1
+Detailed information:res_61
+==========================================
+Contention group 62 :
+Duration: 0.010215999999672931
+Function call stacks: 2
+Total threads: 4
+Total processes: 1
+Detailed information:res_62
+==========================================
+Contention group 63 :
+Duration: 0.006671999999525724
+Function call stacks: 2
+Total threads: 4
+Total processes: 1
+Detailed information:res_63
+==========================================
+Contention group 64 :
+Duration: 0.0067129999997632694
+Function call stacks: 2
+Total threads: 4
+Total processes: 1
+Detailed information:res_64
+==========================================
+Contention group 65 :
+Duration: 0.024054999999862048
+Function call stacks: 2
+Total threads: 3
+Total processes: 1
+Detailed information:res_65
+==========================================
+Contention group 66 :
+Duration: 0.009772999999768217
+Function call stacks: 2
+Total threads: 3
+Total processes: 1
+Detailed information:res_66
+==========================================
+Contention group 67 :
+Duration: 0.010411000000203785
+Function call stacks: 2
+Total threads: 3
+Total processes: 1
+Detailed information:res_67
+==========================================
+Contention group 68 :
+Duration: 0.012700999999651685
+Function call stacks: 2
+Total threads: 3
+Total processes: 1
+Detailed information:res_68
+==========================================
+Contention group 69 :
+Duration: 0.011542999999619497
+Function call stacks: 2
+Total threads: 3
+Total processes: 1
+Detailed information:res_69
+==========================================
+Contention group 70 :
+Duration: 0.006135999999969499
+Function call stacks: 2
+Total threads: 3
+Total processes: 1
+Detailed information:res_70
+==========================================
+Contention group 71 :
+Duration: 0.005513999999493535
+Function call stacks: 2
+Total threads: 3
+Total processes: 1
+Detailed information:res_71
+==========================================
+Contention group 72 :
+Duration: 0.0050149999997302075
+Function call stacks: 2
+Total threads: 3
+Total processes: 1
+Detailed information:res_72
+==========================================
+Contention group 73 :
+Duration: 0.012568000000101165
+Function call stacks: 2
+Total threads: 2
+Total processes: 1
+Detailed information:res_73
+==========================================
+Contention group 74 :
+Duration: 0.005893000000469328
+Function call stacks: 2
+Total threads: 3
+Total processes: 1
+Detailed information:res_74
+==========================================
+Contention group 75 :
+Duration: 0.010324999999284046
+Function call stacks: 2
+Total threads: 3
+Total processes: 2
+Detailed information:res_75
+==========================================
+Contention group 76 :
+Duration: 0.00760199999967881
+Function call stacks: 2
+Total threads: 2
+Total processes: 1
+Detailed information:res_76
+==========================================
+Contention group 77 :
+Duration: 0.00761899999997695
+Function call stacks: 2
+Total threads: 3
+Total processes: 1
+Detailed information:res_77
+==========================================
+Contention group 78 :
+Duration: 0.00659799999993993
+Function call stacks: 2
+Total threads: 3
+Total processes: 1
+Detailed information:res_78
+==========================================
+Contention group 79 :
+Duration: 0.006738999999470252
+Function call stacks: 2
+Total threads: 3
+Total processes: 1
+Detailed information:res_79
+==========================================
+Contention group 80 :
+Duration: 0.0036389999995662947
+Function call stacks: 2
+Total threads: 3
+Total processes: 1
+Detailed information:res_80
+==========================================
+Contention group 81 :
+Duration: 0.004539000000477245
+Function call stacks: 1
+Total threads: 2
+Total processes: 1
+Detailed information:res_81
+==========================================
+Contention group 82 :
+Duration: 0.0033240000002479064
+Function call stacks: 2
+Total threads: 2
+Total processes: 1
+Detailed information:res_82
+==========================================
+Contention group 83 :
+Duration: 0.0045860000000175205
+Function call stacks: 1
+Total threads: 2
+Total processes: 1
+Detailed information:res_83
+==========================================
+Contention group 84 :
+Duration: 0.006129000000328233
+Function call stacks: 2
+Total threads: 2
+Total processes: 1
+Detailed information:res_84
+==========================================
+Contention group 85 :
+Duration: 0.004549000000224623
+Function call stacks: 1
+Total threads: 2
+Total processes: 1
+Detailed information:res_85
+==========================================
+Contention group 86 :
+Duration: 0.003965000000789587
+Function call stacks: 2
+Total threads: 2
+Total processes: 1
+Detailed information:res_86
+==========================================
+Contention group 87 :
+Duration: 0.0037699999993492384
+Function call stacks: 2
+Total threads: 2
+Total processes: 1
+Detailed information:res_87
+==========================================
+Contention group 88 :
+Duration: 0.0044289999996180995
+Function call stacks: 2
+Total threads: 2
+Total processes: 1
+Detailed information:res_88
+==========================================
+Contention group 89 :
+Duration: 0.00538700000015524
+Function call stacks: 1
+Total threads: 2
+Total processes: 1
+Detailed information:res_89
+==========================================
+Contention group 90 :
+Duration: 0.006452000000535918
+Function call stacks: 1
+Total threads: 2
+Total processes: 1
+Detailed information:res_90
+==========================================
+Contention group 91 :
+Duration: 0.006921999999576656
+Function call stacks: 1
+Total threads: 2
+Total processes: 1
+Detailed information:res_91
+==========================================
+Contention group 92 :
+Duration: 0.01130399999965448
+Function call stacks: 2
+Total threads: 2
+Total processes: 1
+Detailed information:res_92
+==========================================
+Contention group 93 :
+Duration: 0.006629000000430096
+Function call stacks: 1
+Total threads: 2
+Total processes: 1
+Detailed information:res_93
+==========================================
+Contention group 94 :
+Duration: 0.009287999999287422
+Function call stacks: 2
+Total threads: 2
+Total processes: 1
+Detailed information:res_94
+==========================================
+Contention group 95 :
+Duration: 0.009802999999919848
+Function call stacks: 1
+Total threads: 2
+Total processes: 1
+Detailed information:res_95
+==========================================
+Contention group 96 :
+Duration: 0.003814000000602391
+Function call stacks: 2
+Total threads: 2
+Total processes: 1
+Detailed information:res_96
+==========================================
+Contention group 97 :
+Duration: 0.006070000000363507
+Function call stacks: 2
+Total threads: 2
+Total processes: 1
+Detailed information:res_97
+==========================================
+Contention group 98 :
+Duration: 0.005095999999866763
+Function call stacks: 1
+Total threads: 2
+Total processes: 1
+Detailed information:res_98
+==========================================
+Contention group 99 :
+Duration: 0.012735000000247965
+Function call stacks: 2
+Total threads: 2
+Total processes: 1
+Detailed information:res_99
+==========================================
+Contention group 100 :
+Duration: 0.009086999999453838
+Function call stacks: 1
+Total threads: 2
+Total processes: 1
+Detailed information:res_100
+==========================================
+Contention group 101 :
+Duration: 0.005025000000387081
+Function call stacks: 1
+Total threads: 2
+Total processes: 1
+Detailed information:res_101
+==========================================
+Contention group 102 :
+Duration: 0.004968999999618973
+Function call stacks: 2
+Total threads: 2
+Total processes: 1
+Detailed information:res_102
+==========================================
+Contention group 103 :
+Duration: 0.004299999999602733
+Function call stacks: 2
+Total threads: 2
+Total processes: 1
+Detailed information:res_103
+==========================================
+Contention group 104 :
+Duration: 0.006744000000253436
+Function call stacks: 2
+Total threads: 2
+Total processes: 1
+Detailed information:res_104
+==========================================
+Contention group 105 :
+Duration: 0.009355000000141445
+Function call stacks: 2
+Total threads: 2
+Total processes: 1
+Detailed information:res_105
+==========================================
+Contention group 106 :
+Duration: 0.007542000000285043
+Function call stacks: 1
+Total threads: 2
+Total processes: 1
+Detailed information:res_106
+==========================================
+Contention group 107 :
+Duration: 0.00893999999971129
+Function call stacks: 1
+Total threads: 2
+Total processes: 1
+Detailed information:res_107
+==========================================
+Contention group 108 :
+Duration: 0.004420999999638298
+Function call stacks: 1
+Total threads: 2
+Total processes: 1
+Detailed information:res_108
+==========================================
+Contention group 109 :
+Duration: 0.004297000000406115
+Function call stacks: 1
+Total threads: 2
+Total processes: 1
+Detailed information:res_109
+==========================================
+Contention group 110 :
+Duration: 0.004317999999329913
+Function call stacks: 1
+Total threads: 2
+Total processes: 1
+Detailed information:res_110
+==========================================
+Contention group 111 :
+Duration: 0.0064560000000710716
+Function call stacks: 2
+Total threads: 2
+Total processes: 1
+Detailed information:res_111
+==========================================
+Contention group 112 :
+Duration: 0.007158999999774096
+Function call stacks: 1
+Total threads: 2
+Total processes: 1
+Detailed information:res_112
+==========================================
+Contention group 113 :
+Duration: 0.005860999999640626
+Function call stacks: 2
+Total threads: 2
+Total processes: 1
+Detailed information:res_113
+==========================================
+Contention group 114 :
+Duration: 0.006008999999721709
+Function call stacks: 2
+Total threads: 2
+Total processes: 1
+Detailed information:res_114
+==========================================
+Contention group 115 :
+Duration: 0.006053000000065367
+Function call stacks: 2
+Total threads: 2
+Total processes: 1
+Detailed information:res_115
+==========================================
+Contention group 116 :
+Duration: 0.004249999999956344
+Function call stacks: 1
+Total threads: 2
+Total processes: 1
+Detailed information:res_116
+==========================================
+Contention group 117 :
+Duration: 0.003885000000082073
+Function call stacks: 1
+Total threads: 2
+Total processes: 1
+Detailed information:res_117
+==========================================
+Contention group 118 :
+Duration: 0.005852000000231783
+Function call stacks: 2
+Total threads: 2
+Total processes: 1
+Detailed information:res_118
+==========================================
+Contention group 119 :
+Duration: 0.006269999999858555
+Function call stacks: 1
+Total threads: 2
+Total processes: 1
+Detailed information:res_119
+==========================================
+Contention group 120 :
+Duration: 0.004298999999264197
+Function call stacks: 1
+Total threads: 2
+Total processes: 1
+Detailed information:res_120

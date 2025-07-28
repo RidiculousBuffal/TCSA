@@ -1,0 +1,12 @@
+==========================================
+Time period: 5738.373998 ~ 5738.376066
+------------------------------------------
+Function call stack chain 1
+__GI___clone3+0x2c;start_thread+0x2d1;waiter_thread_main+0x3d;wait_for_lock+0x12;check_and_acquire_lock+0xf;asm_sysvec_apic_timer_interrupt+0x1b;sysvec_apic_timer_interrupt+0x47;native_apic_msr_eoi+0xb
+Processes: contender
+Threads: 9358
+------------------------------------------
+Function call stack chain 2
+__GI___clone3+0x2c;start_thread+0x2d1;waiter_thread_main+0x3d;wait_for_lock+0x12;check_and_acquire_lock+0x12;asm_sysvec_apic_timer_interrupt+0x1b;sysvec_apic_timer_interrupt+0x47;__sysvec_apic_timer_interrupt+0x56;hrtimer_interrupt+0xfd;__hrtimer_run_queues+0x112;tick_nohz_handler+0x97;update_process_times+0xa0;sched_tick+0x108;perf_event_task_tick+0x52;perf_adjust_freq_unthr_context+0x6f;x86_pmu_disable+0x4d;amd_pmu_disable_all+0x13;native_write_msr+0x6
+Processes: contender
+Threads: 9362
